@@ -16,3 +16,4 @@
  }
  closedir($dr);
  ?>
+ <a href=”index.html”>返回首页</a>
